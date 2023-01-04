@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-trainings/static/css/main.073c9b0a.css",
-    "main.js": "/react-trainings/static/js/main.af426c05.js",
-    "static/js/787.8045dea5.chunk.js": "/react-trainings/static/js/787.8045dea5.chunk.js",
-    "static/media/logo.svg": "/react-trainings/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-trainings/static/css/main.5e080629.css",
+    "main.js": "/react-trainings/static/js/main.c044740f.js",
     "index.html": "/react-trainings/index.html",
-    "main.073c9b0a.css.map": "/react-trainings/static/css/main.073c9b0a.css.map",
-    "main.af426c05.js.map": "/react-trainings/static/js/main.af426c05.js.map",
-    "787.8045dea5.chunk.js.map": "/react-trainings/static/js/787.8045dea5.chunk.js.map"
+    "main.5e080629.css.map": "/react-trainings/static/css/main.5e080629.css.map",
+    "main.c044740f.js.map": "/react-trainings/static/js/main.c044740f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.af426c05.js"
+    "static/css/main.5e080629.css",
+    "static/js/main.c044740f.js"
   ]
 }
